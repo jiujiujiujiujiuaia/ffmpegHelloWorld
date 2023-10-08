@@ -1,0 +1,8 @@
+﻿  transcoding.c
+C:\Users\A\Desktop\workspace\ffmpeg-4.4-full_build-shared\include\libavutil\rational.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\A\Desktop\workspace\ffmpegHelloWorld\transcoding\transcoding.c(61,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\A\Desktop\workspace\ffmpegHelloWorld\transcoding\transcoding.c(106,46): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
+  video_debugging.c
+C:\Users\A\Desktop\workspace\ffmpeg-4.4-full_build-shared\include\libavutil\rational.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  transcoding.vcxproj -> C:\Users\A\Desktop\workspace\ffmpegHelloWorld\x64\Debug\transcoding.exe

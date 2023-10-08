@@ -1,0 +1,4 @@
+﻿  remuxing.c
+C:\Users\A\Desktop\workspace\ffmpeg-4.4-full_build-shared\include\libavutil\rational.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\A\Desktop\workspace\ffmpegHelloWorld\remuxing\remuxing.c(51,19): warning C4018: '<': signed/unsigned mismatch
+  remuxing.vcxproj -> C:\Users\A\Desktop\workspace\ffmpegHelloWorld\x64\Debug\remuxing.exe
